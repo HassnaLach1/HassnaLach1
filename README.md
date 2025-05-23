@@ -1,52 +1,34 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Hassnaa Ait lachgar
+🎓 I'm a freshman Computer Science student passionate about learning how things work behind the scenes — from software to systems. I love solving problems, exploring code, and building projects that make life easier (or more fun!).
 
-🎓 I'm a student passionate about learning and building things with code. Currently exploring the world of software development, physics, and tech in general.
+## 🌱 Currently Learning
 
----
+- Python fundamentals and programming logic
+- Basics of computer science and algorithms
+- How to manage and contribute to GitHub projects
 
-## 📚 About Me
+## 💻 Projects
 
-- 🏫 I’m currently studying at [Your University Name]
-- 💻 I enjoy working on programming projects in Python, C++, or web technologies
-- 🌱 I’m currently learning data structures, algorithms, and full-stack development
-- 🚀 I love applying what I learn to real-world projects and creative ideas
-- 📈 I'm interested in software engineering, UI/UX, artificial intelligence, and science education
+I'm just getting started, but here are a few things I've worked on or am working on:
 
----
+- 🖼️ **Gallery Hub** – A Python-based virtual art exhibition system with login, drawing, and ticket purchasing features
+- 🎢 **Physics Playground Project** – A creative design using physics principles to model real-world playground equipment
+- ✏️ Small Python games and mini tools (coming soon!)
 
-## 🛠️ Languages & Tools
 
-Here are some technologies I've worked with:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📌 Goals for 2025
 
----
+- Learn object-oriented programming (OOP) in Python
+- Start contributing to open-source projects
+- Build a personal website/portfolio
+- Improve my Git and GitHub skills
 
-## 📌 Featured Projects
+## 🤝 Let's Connect!
 
-- 🔐 **[Gallery Hub](https://github.com/yourusername/gallery-hub)**  
-  A Python-based virtual art exhibition platform with multi-user login, painting and ticket purchases, and drawing features.
+I'm always open to feedback, collaboration, or just a friendly chat!
 
-- 🧪 **[Physics Playground Project](https://github.com/yourusername/physics-playground)**  
-  A creative playground model demonstrating real physics principles like energy, motion, and forces.
+- 📫 lachgarhassnaa01@gmail.com
 
-> _More projects coming soon..._
-
----
-
-## 🤝 Connect with Me
-
-- 📬 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-_“Learning to code is learning to create and innovate.”_
 
 Thanks for stopping by! Feel free to check out my repositories and follow me for more updates. 😊
