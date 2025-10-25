@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hassnaa Ait lachgar
+# 👋 Hi there
 🎓 I'm a freshman Computer Science student passionate about learning how things work behind the scenes — from software to systems. I love solving problems, exploring code, and building projects that make life easier (or more fun!).
 
 ## 🌱 Currently Learning
